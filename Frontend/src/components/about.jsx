@@ -4,30 +4,23 @@ import "../styles/about.css";
 const About = () => {
   return (
     <div className="container about-body">
-      <div className="about-header">About E-Mandi</div>
+      <div className="about-header">About eKrishi Bazar</div>
 
       {/* cards */}
-      <div className="about-content">
-        <div className="about-card">
-          <div className="about-card-img sunit"></div>
-          <p className="about-card-text">
-            Name: Sunit Pal <br /> Enroll No: 211B384
+      <div className="">
+        <div className="">
+          <div className=""></div>
+          <p className="">
+             <br /> 
           </p>
         </div>
         <div className="about-description">
-          <h3 className="about-subheader">Project Developer</h3>
+          
           <p>
-            I am a student at Jaypee University of Engineering and Technology,
-            Guna, and I have developed and maintained the eKrishi Bazar website.
+            
           </p>
           <p>
-            eKrishi Bazar is an innovative online platform revolutionizing
-            agricultural trading. It connects farmers directly with consumers,
-            facilitating seamless transactions and eliminating middlemen.
-            Through a user-friendly interface, farmers can showcase their
-            produce, while consumers gain access to fresh, locally sourced
-            goods. eKrishi Bazar promotes fair pricing, transparency, and
-            sustainability in the agricultural supply chain.
+          If you’re looking for farm-fresh fruits and vegetables, artisanal breads, premium pulses and grains, and the finest dairy products, eKrishi Bazar is your one-stop solution. Say goodbye to the hassle of navigating through crowded markets, standing in long queues, and carrying heavy bags. With eKrishi Bazar, you can get everything you need, delivered directly to your doorstep, straight from the farmers themselves. From fresh produce and organic spices to pantry essentials and dairy delights—we’ve got it all. Our wide selection across every category is carefully curated to bring you the best quality products at unbeatable prices. Simply choose your preferred delivery time slot, and we’ll ensure your order arrives at your doorstep, anywhere in India. Shopping for your daily needs has never been easier, with all your essentials just a click away at eKrishi Bazar.
           </p>
         </div>
       </div>

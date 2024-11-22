@@ -39,28 +39,28 @@ const ContactUs = () => {
       {/* icons */}
       <div className="footer-icons">
         <a
-          href="https://github.com/Ezio7777/E-Mandi"
+          href="https://github.com/sparshkohade/eKrishi-Bazar-"
           target="_blank"
           rel="noopener noreferrer"
         >
           <i className="fab fa-github"></i>
         </a>
         <a
-          href="https://www.instagram.com/sunitxg_007"
+          href="https://www.instagram.com/sparshkohade/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <i className="fab fa-instagram"></i>
         </a>
         <a
-          href="https://www.linkedin.com/in/sunit-pal-1a792824a/"
+          href="https://www.linkedin.com/in/sparsh-kohade-35602b21b/"
           target="_blank"
           rel="noopener noreferrer"
         >
           <i className="fab fa-linkedin"></i>
         </a>
         <a
-          href="https://www.facebook.com/Sunit Pal"
+          href=""
           target="_blank"
           rel="noopener noreferrer"
         >
